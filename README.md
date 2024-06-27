@@ -5,11 +5,6 @@ This project involves the analysis, visualization, and clustering of an age-sala
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Description of Tasks](#description-of-tasks)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
